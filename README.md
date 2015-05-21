@@ -1,7 +1,7 @@
 # 제발 한국인이면 맨시티 응원합시다!
 > This repository is originally forked from https://github.com/sinwoobang/support-man-united
 
-> Long term goal is to be merged into one repository. (To one and only manchester ruler, city)
+> Long term goal is to be merged into one repository. (To one and only manchester ruler, city.)
 
 > Please support manchester city if you're korean.
 
